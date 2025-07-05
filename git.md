@@ -46,7 +46,7 @@ git checkout your-branch-name
 Example:
 
 ```bash
-git checkout vanshika
+git checkout pranshu
 ```
 
 ---
